@@ -1,4 +1,4 @@
-#### You are standing in an open field west of a white house, with a boarded front door. There is a small mailbox here.
+#### You are standing in an open field west of a white house, with a boarded front door. [There is a small mailbox here](https://github.com/wildbook/wildbook/issues).
 
 <!--
 **wildbook/wildbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
